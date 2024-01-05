@@ -20,7 +20,7 @@ O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que 
 - **Sair do Sistema:** Encerra a execução do programa.
 
 ## 3. Estrutura
-
+![Tree](https://github.com/Felipe-Moura-Ribeiro/Sistema_Integrado_de_gestao_de_atividades/assets/122798291/31736ef9-52b7-45ce-9a7c-fd69fce289e1)
 
 ## 4. Como Executar
 - **Certifique-se de ter o Java instalado na sua máquina.
