@@ -1,6 +1,6 @@
 # Sistema_Integrado_de_gestao_de_atividades
 
-##Descrição do Projeto
+## 1. Descrição do Projeto
 
 O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que oferece funcionalidades para cadastrar disciplinas, cadastrar alunos nessas disciplinas, preencher notas dos alunos, gerar relatórios das disciplinas com as notas dos alunos e mostrar os aprovados e reprovados. O usuário interage com o programa através de entradas de teclado para realizar essas operações.
 
