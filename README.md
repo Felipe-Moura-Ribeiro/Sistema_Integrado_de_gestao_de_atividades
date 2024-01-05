@@ -20,24 +20,16 @@ O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que 
 - **Sair do Sistema:** Encerra a execução do programa.
 
 ## 3. Estrutura
-/Sistema_Integrado_de_gestao_de_atividades
-│
-├── src
-│   ├── sigaafake
-│   │   ├── controllers      # Controladores da aplicação
-│   │   │   ├── DisciplinaController.java   # Controlador para operações relacionadas às disciplinas
-│   │   │   ├── AlunoController.java        # Controlador para operações relacionadas aos alunos
-│   │   │   └── Main.java    # Ponto de entrada da aplicação
-│   │   ├── models           # Modelos de dados
-│   │   │   ├── Disciplina.java   # Modelo para representar uma disciplina
-│   │   │   └── Aluno.java        # Modelo para representar um aluno
-│   │   ├── views            # Interfaces de usuário
-│   │   │   └── ConsoleView.java   # Interface de console para interação com o usuário
-│   │   └── Application.java  # Classe principal que gerencia a aplicação
-│   │
-│   └── resources            # Recursos adicionais (arquivos de configuração, etc.)
-│
-├── .gitignore               # Lista de arquivos e diretórios ignorados pelo Git
-├── LICENSE                  # Licença do projeto
-└── README.md                # Este arquivo README
+
+## 4. Como Executar
+- **Certifique-se de ter o Java instalado na sua máquina.
+- **Navegue até o diretório src/sigaafake.
+- **Compile o código usando o comando javac sigaafake/Main.java.
+- **Execute a aplicação com o comando java sigaafake.Main.
+
+## 5. Contribuição
+Contribuições são bem-vindas! Se você identificar bugs, sugerir melhorias ou desejar adicionar novos recursos, sinta-se à vontade para abrir uma issue e/ou enviar um pull request.
+
+## 6. Licença
+Este projeto é distribuído sob a licença MIT. Leia o arquivo LICENSE para obter mais detalhes.
 
