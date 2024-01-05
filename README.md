@@ -21,6 +21,7 @@ O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que 
 
 ## 3. Estrutura
 
+
 ## 4. Como Executar
 - **Certifique-se de ter o Java instalado na sua máquina.
 - **Navegue até o diretório src/sigaafake.
