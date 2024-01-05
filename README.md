@@ -18,3 +18,26 @@ O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que 
 - **Aprovados e Reprovados:** Mostra uma lista de alunos aprovados e reprovados em cada disciplina com base nas notas inseridas.
 
 - **Sair do Sistema:** Encerra a execução do programa.
+
+## 3. Estrutura
+/Sistema_Integrado_de_gestao_de_atividades
+│
+├── src
+│   ├── sigaafake
+│   │   ├── controllers      # Controladores da aplicação
+│   │   │   ├── DisciplinaController.java   # Controlador para operações relacionadas às disciplinas
+│   │   │   ├── AlunoController.java        # Controlador para operações relacionadas aos alunos
+│   │   │   └── Main.java    # Ponto de entrada da aplicação
+│   │   ├── models           # Modelos de dados
+│   │   │   ├── Disciplina.java   # Modelo para representar uma disciplina
+│   │   │   └── Aluno.java        # Modelo para representar um aluno
+│   │   ├── views            # Interfaces de usuário
+│   │   │   └── ConsoleView.java   # Interface de console para interação com o usuário
+│   │   └── Application.java  # Classe principal que gerencia a aplicação
+│   │
+│   └── resources            # Recursos adicionais (arquivos de configuração, etc.)
+│
+├── .gitignore               # Lista de arquivos e diretórios ignorados pelo Git
+├── LICENSE                  # Licença do projeto
+└── README.md                # Este arquivo README
+
