@@ -23,10 +23,10 @@ O Sistema Integrado de Gestão de Atividades (SIGA) é uma aplicação Java que 
 ![Tree](https://github.com/Felipe-Moura-Ribeiro/Sistema_Integrado_de_gestao_de_atividades/assets/122798291/31736ef9-52b7-45ce-9a7c-fd69fce289e1)
 
 ## 4. Como Executar
-- **Certifique-se de ter o Java instalado na sua máquina.
-- **Navegue até o diretório src/sigaafake.
-- **Compile o código usando o comando javac sigaafake/Main.java.
-- **Execute a aplicação com o comando java sigaafake.Main.
+- Certifique-se de ter o Java instalado na sua máquina.
+- Navegue até o diretório src/sigaafake.
+- Compile o código usando o comando javac sigaafake/Main.java.
+- Execute a aplicação com o comando java sigaafake.Main.
 
 ## 5. Contribuição
 Contribuições são bem-vindas! Se você identificar bugs, sugerir melhorias ou desejar adicionar novos recursos, sinta-se à vontade para abrir uma issue e/ou enviar um pull request.
